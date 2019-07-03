@@ -1,7 +1,8 @@
 # Projeto na placa de desenvolvimento em FPGA BASYS3
 
     O projeto consiste na aplicação do filtro negativo bem como no filtro de canais 
-    (verde,azul,vermelho) e na exibição da imagem resultante em um monitor VGA.
+    (verde,azul,vermelho, entre outros) em uma imagem RGB e na exibição da imagem 
+    resultante em um monitor VGA.
 
    # Switches:
     Os switches utilizados na placa de desenvolvimento foram SW0, SW1, SW2, e SW3.
@@ -10,6 +11,9 @@
     O SW1 filtra o canal vermelho;
     O SW2 filtra o canal verde;
     O SW3 filtra o canal azul;
+    O SW4 filtro passa vermelho;
+    O SW5 filtro passa verde;
+    O SW6 filtro passa azul.
 
    # Módulo monitor VGA
     O controlador VGA para a placa Basys 3 utiliza o clock de 100 MHz dividido por 4,
