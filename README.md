@@ -7,9 +7,9 @@
     Os switches utilizados na placa de desenvolvimento foram SW0, SW1, SW2, e SW3.
 
     O SW0 faz o filtro negativo;
-    O SW1 faz o filtro do canal vermelho;
-    O SW2 faz o filtro do canal verde;
-    O SW3 faz o filtro do canal azul;
+    O SW1 filtra o canal vermelho;
+    O SW2 filtra o canal verde;
+    O SW3 filtra o canal azul;
 
    # Módulo monitor VGA
     
